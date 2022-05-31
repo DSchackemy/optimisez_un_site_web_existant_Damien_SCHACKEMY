@@ -677,7 +677,7 @@ a {
 
 p {
     font-size: 17px;
-    color: white;
+    color: white !important ;
 }
 
 .tight-width-whitespace {
